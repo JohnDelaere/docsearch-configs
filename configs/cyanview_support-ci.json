@@ -1,8 +1,8 @@
 {
-  "index_name": "cyanview_support-ci",
+  "index_name": "cyanview_support",
   "start_urls": [
-    "https://support-ci.cyanview.com/docs/",
-    "https://support-ci.cyanview.com/docs/DefaultDocsPage"
+    "https://support.cyanview.com/docs/",
+    "https://support.cyanview.com/docs/DefaultDocsPage"
   ],
   "sitemap_urls": [
     "https://support-ci.cyanview.com/sitemap.xml"
